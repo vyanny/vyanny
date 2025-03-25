@@ -1,16 +1,11 @@
-## Hi there 👋
+# 👋 Hi, I'm vyanny!  
+🎮 Passionate about **3D modeling, storytelling, and development for both games/films while also exploring narrative concepts.**  
+🎬 Interested in **game & film development, animation, and VFX.**  
+💻 Exploring **game development, modding.**  
 
-<!--
-**vyanny/vyanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools  
+- **3D Tools:** Blender  
+- **Game Modding:** Yakuza (Dragon Engine), GTA (RenderWare Engine), Minecraft.
+ 
+## 🎥 Check out my YouTube!
+I post modding experiment, and maybe some fun stuff along the way: https://youtube.com/@itsvyanny?si=Chrh0MbD81D9PPwp
