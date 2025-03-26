@@ -4,8 +4,9 @@
 💻 Exploring **game development, modding.**  
 
 ## 🔧 Skills & Tools  
-- **3D Tools:** Blender  
-- **Game Modding:** Yakuza (Dragon Engine), GTA (RenderWare Engine), Minecraft.
+- **3D Tools:** Blender
+- **Coding Language:** Python (still learning the basics tho)
+- **Game Modding:** Yakuza/Like a Dragon (Dragon Engine), GTA (RenderWare Engine), Minecraft.
  
 ## 🎥 Check out my YouTube!
 I post modding experiment, and maybe some fun stuff along the way: https://youtube.com/@itsvyanny?si=Chrh0MbD81D9PPwp
